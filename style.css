@@ -1,7 +1,10 @@
 .footer {
   background-color: #808080;
   color: "white";
-  float: left;
+}
+
+.footer div {
+  float: left;  
 }
 
 .lokasi {
