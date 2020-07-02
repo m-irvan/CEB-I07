@@ -27,8 +27,7 @@
   height: 300px;
 }
 
-.footer .copyright {
-  background-color: "black";
+.copyright {
   color: "white";
-  align: center;
+  align-item: center;
 }
