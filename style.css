@@ -1,10 +1,15 @@
 .footer {
-  background-color: #808080;
-  color: "white";
+    margin-top: 50px;
+    height: 600px;
+    width: 100%;
+    background-color: rgb(72, 74, 77);
 }
 
-.footer div {
-   
+.isi {
+    color: white;
+    display: flex;
+    padding: 30px 100px;
+    justify-content: space-between;
 }
 
 .lokasi {
@@ -22,15 +27,8 @@
   height: 300px;
 }
 
-@mixin clearfix() {
-  &::after {
-    display: block;
-    content: "";
-    clear: both;
-  }
-}
-
-// Usage as a mixin
-.element {
-  @include clearfix;
+.copyright {
+  background-color: "black";
+  color: "white";
+  align: center;
 }
