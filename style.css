@@ -1,6 +1,6 @@
 .footer {
     margin-top: 50px;
-    height: 600px;
+    height: 400px;
     width: 100%;
     background-color: rgb(72, 74, 77);
 }
@@ -27,7 +27,7 @@
   height: 300px;
 }
 
-.copyright {
+.footer .copyright {
   background-color: "black";
   color: "white";
   align: center;
