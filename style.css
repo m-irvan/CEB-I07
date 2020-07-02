@@ -1,11 +1,20 @@
 .footer {
   background-color: #808080;
   color: "white";
-  
+  float: left;
 }
 
 .lokasi {
   width: 300px;
   height: 300px;
-  float: left;
+}
+
+.medsos {
+  width: 400px;
+  height: 300px;
+}
+
+.tentang {
+  width: 400px;
+  height: 300px;
 }
