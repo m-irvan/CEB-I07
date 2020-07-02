@@ -8,7 +8,7 @@
     color: white;
     display: flex;
     padding: 30px 100px;
-    justify-content: space-around;
+    justify-content: space-between;
 }
 
 .lokasi {
